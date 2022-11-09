@@ -1,0 +1,3 @@
+// 1. Fix bugs appearing on console.
+// 2. Fix todo bug which doesn't clear form while submitting data.
+// 2. Create a counter on Table.jsx file at line 31.
